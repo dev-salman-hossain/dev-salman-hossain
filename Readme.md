@@ -41,9 +41,7 @@
 - 📫 Feel free to reach me out **[Email](mds619820@gmail.com)**
   
 <p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman472&theme=tokyonight" /> <br />
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman472&theme=tokyonight" />
 </p>
 
 <!--- socials --->
