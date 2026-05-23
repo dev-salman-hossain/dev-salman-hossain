@@ -20,7 +20,7 @@
 <!-- 👁️ GitHub Profile View Counter -->
 <!-- =============================== -->
 <p align="center">
-  <img width="150px" src="https://komarev.com/ghpvc/?username=Salman472&style=flat-square&color=22CCB2" />
+  <img width="150px" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22CCB2" />
 </p>
 <!-- =============================== -->
 <!-- ✨ Divider -->
@@ -43,18 +43,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman472&theme=tokyonight" />
 </p>
+## 🌀 Working Mode Activated
 
 <p align="center">
-  <!-- Main Stats Card -->
-   <img src="https://github-readme-stats.vercel.app/api?username=Salman472&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Salman472&show_icons=true&theme=tokyonight" />
-
-  <br/>
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman472&theme=tokyonight&hide_border=true&background=1A1B27&border=EBEBEB" width="48%"/>
-<br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman472&layout=compact&theme=tokyonight" />
+  <img src="./assets/animated.gif" align="center" width="90%" />
 </p>
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
