@@ -40,7 +40,11 @@
 - 💬 Ask me about **Full-Stack (MongoDB, Express.js, React.js and Node.js)**.
 - 📫 Feel free to reach me out **[Email](mds619820@gmail.com)**
   
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obaidullah-miazi-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaidullah-miazi-dev&theme=tokyonight" /> <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah-miazi-dev&layout=compact&theme=tokyonight" />
+</p>
 
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
