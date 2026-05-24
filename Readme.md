@@ -115,8 +115,7 @@
 
 ---
 
-<!--- visit count --->
-<p align='center'>
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting%20Me-Blue?style=for-the-badge&color=blue" />
 </p>
 
