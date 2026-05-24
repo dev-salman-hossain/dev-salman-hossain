@@ -20,7 +20,7 @@
 <!-- 👁️ GitHub Profile View Counter -->
 <!-- =============================== -->
 <p align="center">
-  <img width="150px" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22CCB2" />
+  <img width="150px" src="https://komarev.com/ghpvc/?username=Salman472&style=flat-square&color=22CCB2" />
 </p>
 <!-- =============================== -->
 <!-- ✨ Divider -->
