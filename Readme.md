@@ -114,15 +114,13 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
-<<<<<<< HEAD
+
+
+<!-- tropy -->
+<img src="https://github-profile-trophy.vercel.app/?username=Salman472&theme=onedark"/>
+
 
 <!-- footer -->
 <p align="center">
   <img src="./assets/footer.svg" align="center" width="90%" />
 </p>
-=======
-<!-- tropy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Salman472&theme=onedark"/>
->>>>>>> 46969ecb9db6a9032795b6e4714735d0241cbb35
-
-
