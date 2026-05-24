@@ -119,8 +119,7 @@
   <img
     height="120"
     width="100%"
-    alt="Thanks for visiting me"
-    src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"
+    src="https://raw.githubusercontent.com/Salman472/Salman472/main/assets/marquee-blue.svg"
   />
 </p>
 
