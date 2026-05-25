@@ -67,7 +67,7 @@
   <p align="left">
     <a href="https://www.linkedin.com/in/salman-hossain-dev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
     <a href="https://discord.gg/dev_salman_hossain" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
-   <a href="(https://www.facebook.com/md.sayem.hossain.71778)" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="30" width="40" /></a>
+   
 
   </p>
 </div>
