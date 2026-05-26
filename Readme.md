@@ -1,4 +1,3 @@
-
 <!--- banner --->
 <img src="./assets/banner.png" width:500px alt="Hello world">
 
@@ -29,8 +28,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-
 <!--- about --->
+
 - 👋 Hi, I’m **[@Md. Salman Hossain](https://github.com/Salman472)**
 - 🖥️ I’m currently working on **Html, Css, Javascript, React and TailwindCss** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
@@ -39,12 +38,11 @@
 - 🛠️ I’m currently building **MERN STACK APPICATION**.
 - 💬 Ask me about **Full-Stack (MongoDB, Express.js, React.js and Node.js)**.
 - 📫 Feel free to reach me out **[Email](mds619820@gmail.com)**
-  
 
-  <!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+    <!-- ✨ Divider -->
+  <h3 align="center">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  </h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman472&theme=tokyonight" />
@@ -61,13 +59,13 @@
 </h3>
 
 <!--- socials --->
+
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
 <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/salman-hossain-dev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
     <a href="https://discord.gg/dev_salman_hossain" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
-   
 
   </p>
 </div>
@@ -103,22 +101,25 @@
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width="25" /> **Tech Stack & Tools**
 
-
   <table>
     <tr>
-      <td><strong>Frontend</strong></td>
+      <td><strong>Frontend Development</strong></td>
       <td><strong>Backend</strong></td>
     </tr>
     <tr>
       <td>
-        <img
-          src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap"
-          height="40"
-        />
+      ### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" height="40" />
+
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
       </td>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=nodejs,expressjs,php,laravel"
+          src="https://skillicons.dev/icons?i=nodejs,expressjs"
           height="40"
         />
       </td>
@@ -129,7 +130,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" 
+        <img src="https://skillicons.dev/icons?i=mongodb,prisma," 
           height="40" 
           />
       </td>
@@ -166,30 +167,29 @@
 <br/>
 
 <!--- statistics --->
+
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 ### GitHub Statistics:
 
-
 ### Repository Stats & Streak:
-
 
 <br/>
 
 <!--- random quote --->
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
 
-
 <!-- tropy -->
 <img src="https://github-profile-trophy.vercel.app/?username=Salman472&theme=onedark"/>
-
 
 <!-- footer -->
 <p align="center">
