@@ -125,6 +125,7 @@
     </tr>
     <tr>
       <td><strong>Database</strong></td>
+      <td><strong>Practice</strong></td>
     </tr>
     <tr>
       <td>
@@ -132,10 +133,14 @@
           height="40" 
           />
       </td>
+       <td>
+        <img src="https://skillicons.dev/icons?i=vscode,discord" 
+          height="40" 
+          />
+      </td>
     </tr>
     <tr>
       <td><strong>Version Control</strong></td>
-      <td><strong>Practice</strong></td>
     </tr>
     <tr>
       <td>
@@ -143,11 +148,6 @@
           src="https://skillicons.dev/icons?i=git,github"
           height="40"
         />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=vscode,phpstorm,discord,codepen" 
-          height="40" 
-          />
       </td>
     </tr>
     <tr>
