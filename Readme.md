@@ -107,16 +107,15 @@
       <td><strong>Backend</strong></td>
     </tr>
     <tr>
-      <td>
+      <>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" height="40" />
 
-<td>
+
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-</td>
       </td>
       <td>
         <img
