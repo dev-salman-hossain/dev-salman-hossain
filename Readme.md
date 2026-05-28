@@ -109,7 +109,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=mongodb,prisma," 
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma," 
           height="40" 
           />
       </td>
