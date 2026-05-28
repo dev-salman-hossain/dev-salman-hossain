@@ -18,7 +18,7 @@
 <!-- =============================== -->
 <!-- 👁️ GitHub Profile View Counter -->
 <!-- =============================== -->
-<p align="center">
+<p align="center" width="1800px">
   <img width="150px" src="https://komarev.com/ghpvc/?username=dev-salman-hossain&style=flat-square&color=22CCB2" />
 </p>
 <!-- =============================== -->
