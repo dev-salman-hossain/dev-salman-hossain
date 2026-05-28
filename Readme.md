@@ -71,10 +71,21 @@
 
 </td>
       <td>
-        <img
-          src="https://skillicons.dev/icons?i=nodejs,expressjs"
-          height="40"
-        />
+        <p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
+  
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/RBAC-4B32C3?style=for-the-badge&logo=auth0&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Multer-FF6B6B?style=for-the-badge&logo=files&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>
       </td>
     </tr>
     <tr>
