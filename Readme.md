@@ -53,7 +53,7 @@
   <table>
     <tr>
       <td><strong>Frontend Development</strong></td>
-      <td><strong>Backend</strong></td>
+      <td><strong>Backend Development</strong></td>
     </tr>
     <tr>
       <td >
@@ -89,14 +89,23 @@
       </td>
     </tr>
     <tr>
-      <td><strong>Database</strong></td>
+      <td><strong>Database & ORM</strong></td>
       <td><strong>Practice</strong></td>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma," 
-          height="40" 
-          />
+       <p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma"
+    height="40"
+    style="margin-right: 10px;"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"
+    style="margin-right: 10px;"
+  />
+</p>
       </td>
        <td>
         <img src="https://skillicons.dev/icons?i=vscode,discord" 
