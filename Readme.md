@@ -51,7 +51,7 @@
 
 
     <td align="center">
-      <a href="https://www.linkedin.com/">
+      <a href="https://www.linkedin.com/in/dev-salman-hossain">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
       </a>
       <br />
@@ -59,8 +59,8 @@
     </td>
 
    <td align="center">
-  <a href="https://facebook.com/yourusername">
-    <img
+  <a href="https://www.facebook.com/md.sayem.hossain.71778">
+    <img width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
     />
   </a>
@@ -68,7 +68,7 @@
   Facebook
 </td>
     <td align="center">
-      <a href="mailto:yourmail@gmail.com">
+      <a href="mailto:salmanhossain.dev@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" width="40" />
       </a>
       <br />
