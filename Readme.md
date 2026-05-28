@@ -45,37 +45,38 @@
   </h3>
 
   <!--social-->
+  ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="30"><b> FOLLOW ME ON SOCIALS:</b>
   <table>
   <tr>
 
 
     <td align="center">
       <a href="https://www.linkedin.com/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
       </a>
       <br />
       LinkedIn
     </td>
 
-    <td align="center">
-      <a href="https://twitter.com/">
-        <img src="https://skillicons.dev/icons?i=facebook" width="45" />
-      </a>
-      <br />
-      Facebook
-    </td>
-
+   <td align="center">
+  <a href="https://facebook.com/yourusername">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    />
+  </a>
+  <br />
+  Facebook
+</td>
     <td align="center">
       <a href="mailto:yourmail@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+        <img src="https://skillicons.dev/icons?i=gmail" width="40" />
       </a>
       <br />
       Gmail
     </td>
-
     <td align="center">
       <a href="https://discord.com/users/">
-        <img src="https://skillicons.dev/icons?i=discord" width="45" />
+        <img src="https://skillicons.dev/icons?i=discord" width="40" />
       </a>
       <br />
       Discord
@@ -100,7 +101,6 @@
     </tr>
     <tr>
       <td >
-
   <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" height="40" />
 
@@ -182,8 +182,6 @@
 
 <br/>
 
-
-  
   <h3 align="center" width="1500px">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
@@ -203,22 +201,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!--- socials --->
-
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
-
-<div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/salman-hossain-dev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="https://discord.gg/dev_salman_hossain" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
-
-  </p>
-</div>
-
 <br/>
-
-
-
 
 <!--- statistics --->
 
