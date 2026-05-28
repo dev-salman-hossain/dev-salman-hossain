@@ -71,7 +71,7 @@
 
 </td>
       <td>
-        <p align="left">
+        <p align="left" style="line-height: 3;">
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
   
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
