@@ -136,7 +136,7 @@
     <tr>
       <td colspan="2">
         <img
-          src="https://skillicons.dev/icons?i=npm,vite,firebase,vercel,netlify,postman,devto,figma,ps,ai,pr,notion,bash,githubactions,sass"
+          src="https://skillicons.dev/icons?i=npm,vite,firebase,vercel,netlify,postman,thunder,devto,figma,notion,bash,sass"
           height="40"
         />
       </td>
