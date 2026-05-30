@@ -229,8 +229,9 @@
 
 ---
 
-<!-- tropy -->
-<img src="https://github-profile-trophy.vercel.app/?username=dev-salman-hossain&theme=onedark"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dev-salman-hossain&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 
 <!-- footer -->
 <p align="center">
