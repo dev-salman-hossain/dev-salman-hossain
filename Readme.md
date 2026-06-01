@@ -231,7 +231,7 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
 
-  <br> <br>
+  <br/> <br/>
 
   <!-- ✨ Divider -->
 <h3 align="center">
@@ -244,7 +244,7 @@
 
 ### GitHub Statistics:
 
-### Repository Stats & Streak:
+
 
 <br/>
 
@@ -253,7 +253,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-salman-hossain&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-salman-hossain&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--- random quote --->
 
