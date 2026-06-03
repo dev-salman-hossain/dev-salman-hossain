@@ -205,6 +205,12 @@
 
 ## 📊 **GitHub Analytics**
 
+<!-- ✨ Divider -->
+<!-- =============================== -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dev-salman-hossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
