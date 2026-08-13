@@ -182,14 +182,16 @@
 
 <br/>
 
+
   <h3 align="center" >
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </h3>
-  
-
+ 
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-salman-hossain&theme=tokyonight" />
 </p>
+-->
 ## 🌀 Working Mode Activated
 <br> <br>
 <p align="center">
@@ -222,7 +224,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dev-salman-hossain&theme=tokyonight&hide_border=true&background=0D1117)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-salman-hossain&theme=tokyonight" />
+</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-salman-hossain&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
