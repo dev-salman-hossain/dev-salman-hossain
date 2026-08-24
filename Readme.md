@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./assets/banner.png" width:500px alt="Hello world"> 
+<img src="./assets/asciiPic.png" width:500px alt="Hello world"> 
 
 <br/>
 
