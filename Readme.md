@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./assets/asciiPic.png" width:500px alt="Hello world"> 
+<img src="./assets/asciiPic.png" alt="Hello world" style="width: 100%; height: 800px; object-fit: contain; object-position: center;">
 
 <br/>
 
