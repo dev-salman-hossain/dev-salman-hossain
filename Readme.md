@@ -225,7 +225,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-salman-hossain&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=dev-salman-hossain&theme=tokyonight" />
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-salman-hossain&theme=tokyo-night&hide_border=true&bg_color=0D1117)
