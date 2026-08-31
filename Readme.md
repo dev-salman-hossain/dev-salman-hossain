@@ -220,40 +220,19 @@
 
 
 <br>
-## 🔥 **Contribution Activity**
-
+  Contribution Activity
+<br><br><br>
 <div align="center">
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dev-salman-hossain&theme=tokyonight" />
 </p>
-
-
-
 </div>
-
 
   <!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
-### GitHub Contributions:
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-### GitHub Statistics:
-
-
-
-<br/>
-
-
-
----
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-salman-hossain&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--- random quote --->
 
