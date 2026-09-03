@@ -19,7 +19,7 @@
 <!-- 👁️ GitHub Profile View Counter -->
 <!-- =============================== -->
 <p align="center" width="150px">
-  <img width="150px" src="https://komarev.com/ghpvc/?username=dev-salman-hossain&style=flat-square&color=22CCB2" />
+  <img width="150px" src="https://komarev.com/ghpvc/?username=hellosalmanhossain&style=flat-square&color=22CCB2" />
 </p>
 <!-- =============================== -->
 <!-- ✨ Divider -->
@@ -30,7 +30,7 @@
 
 <!--- about --->
 
-- 👋 Hi, I’m **[@Md. Salman Hossain](https://github.com/dev-salman-hossain)**
+- 👋 Hi, I’m **[@Md. Salman Hossain](https://github.com/hellosalmanhossain)**
 - 🖥️ I’m currently working on **Html, Css, Javascript, React and TailwindCss** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
 - ⚡ I am exploring **Next.js**.
@@ -51,7 +51,7 @@
 
 
     <td align="center">
-      <a href="https://www.linkedin.com/in/dev-salman-hossain">
+      <a href="https://www.linkedin.com/in/hellosalmanhossain">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
       </a>
       <br />
@@ -189,7 +189,7 @@
  
 <!--
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-salman-hossain&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hellosalmanhossain&theme=tokyonight" />
 </p>
 -->
 ## 🌀 Working Mode Activated
@@ -215,7 +215,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dev-salman-hossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hellosalmanhossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 
 
@@ -225,7 +225,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dev-salman-hossain&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=hellosalmanhossain&theme=tokyonight" />
 </p>
 </div>
 
