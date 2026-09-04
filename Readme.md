@@ -225,7 +225,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hellosalmanhossain&theme=tokyonight" />
+ 
 </p>
 </div>
 
